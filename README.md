@@ -7,5 +7,13 @@
 streamlit run app.py
 ```
 
+## 预先处理
+```
+填写openai的token,
+然后:
+mv env_template .env
+
+```
+
 
 ![image](https://github.com/zgimszhd61/oneclickChangeAvatar/assets/114722053/7ab6ddc4-2968-4a9e-adad-3c7fd2a6c0ba)
